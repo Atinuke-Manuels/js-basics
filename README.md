@@ -1,11 +1,11 @@
-# js-basics
+## js-basics
 
-• What runs JavaScript outside the browser ?
+# What runs JavaScript outside the browser ?
 
 Ans
 Node
 
-• Name 5 things Javascript can do.
+# Name 5 things Javascript can do.
 
 Ans
 -It can be used for arithmetic operations like addition and subtraction.
@@ -15,18 +15,18 @@ Ans
 -It can be used to build web servers.
 
 
-• When was ECMAScript first released ?
+# When was ECMAScript first released ?
 
 Ans
 June 1997.
 
-• How do you log to the console?
+# How do you log to the console?
 
 Ans
 console.log()
 
 
-• List the tech fields that use JavaScript, for example FrontEnd.
+# List the tech fields that use JavaScript, for example FrontEnd.
 
 Ans
 -Backend
@@ -41,7 +41,7 @@ Ans
 
 
 
-• Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
+# Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
 
 Ans
 
@@ -54,7 +54,7 @@ Dynamically typed programming languages perform type checking at runtime and you
 
 
 
-• Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp;
+# Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp;
 
 Ans
 Undefined is a type while null is an object.
