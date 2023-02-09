@@ -19,7 +19,7 @@ June 1997.
 
 ## How do you log to the console?
 
-console.log()
+console.log();
 
 
 ## List the tech fields that use JavaScript, for example FrontEnd.
